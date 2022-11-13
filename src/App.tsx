@@ -21,7 +21,7 @@ function App() {
     <div className='flexmobi'>
       <div className='language'>
         <button onClick={() => setLanguage(prev => true)}>ua</button>
-        <button onClick={() => setLanguage(prev => false)}>en</button>
+        <button onClick={() => setLanguage(prev => false)}>eng</button>
       </div>
       <div className='flexsize'>
       {currentLanguage ? <Foto /> : <EnFoto/>}
