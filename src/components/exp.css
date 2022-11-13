@@ -1,0 +1,16 @@
+.exp{
+    text-align: left;
+    margin-top: 11%;
+    max-width: 240px;
+    padding-top: 10px; 
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 16px;
+    background-color:white;
+    margin-left: 10px;
+}
+
+@media screen and (max-device-width: 800px) {
+    .exp{margin-left: 0px; margin-top: 1%;}
+}
