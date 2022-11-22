@@ -7,7 +7,7 @@ export function EnSkills() {
             <div><b className='btxtclr'>Skills</b></div>
             <p></p>
             <div><b>Programming languages:</b></div>
-            <div className='txtclr'>JavaScript, HTML/CSS, React,
+            <div className='txtclr'>JavaScript, HTML/CSS, React, TypeScript,
                 PHP, C++, C#</div>
         </div>
     )
